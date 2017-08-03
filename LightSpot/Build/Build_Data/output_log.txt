@@ -1,0 +1,66 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x80004005)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igxprd32.dll 6.14.10.4926]
+    Renderer: Intel(R) 945G
+    Vendor:   Intel
+    VRAM:     64 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0 ATOC=0 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\Users\MilkTicc\Workspace\EAE6900-012 AI for Games\Backup\LightSpot\Build\Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\Users\MilkTicc\Workspace\EAE6900-012 AI for Games\Backup\LightSpot\Build\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\Users\MilkTicc\Workspace\EAE6900-012 AI for Games\Backup\LightSpot\Build\Build_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading Z:\Users\MilkTicc\Workspace\EAE6900-012 AI for Games\Backup\LightSpot\Build\Build_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: Z:\Users\MilkTicc\Workspace\EAE6900-012 AI for Games\Backup\LightSpot\Build\Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\Users\MilkTicc\Workspace\EAE6900-012 AI for Games\Backup\LightSpot\Build\Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\Users\MilkTicc\Workspace\EAE6900-012 AI for Games\Backup\LightSpot\Build\Build_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading Z:\Users\MilkTicc\Workspace\EAE6900-012 AI for Games\Backup\LightSpot\Build\Build_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: Z:\Users\MilkTicc\Workspace\EAE6900-012 AI for Games\Backup\LightSpot\Build\Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Z:\Users\MilkTicc\Workspace\EAE6900-012 AI for Games\Backup\LightSpot\Build\Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: Z:\Users\MilkTicc\Workspace\EAE6900-012 AI for Games\Backup\LightSpot\Build\Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading Z:\Users\MilkTicc\Workspace\EAE6900-012 AI for Games\Backup\LightSpot\Build\Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: Z:\Users\MilkTicc\Workspace\EAE6900-012 AI for Games\Backup\LightSpot\Build\Build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading Z:\Users\MilkTicc\Workspace\EAE6900-012 AI for Games\Backup\LightSpot\Build\Build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.053 seconds
+Platform assembly: Z:\Users\MilkTicc\Workspace\EAE6900-012 AI for Games\Backup\LightSpot\Build\Build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: Z:\Users\MilkTicc\Workspace\EAE6900-012 AI for Games\Backup\LightSpot\Build\Build_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Touch support initialization failed: Call not implemented.
+.
+UnloadTime: 1.634500 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.403000 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3241.
+Total: 2.559400 ms (FindLiveObjects: 0.390600 ms CreateObjectMapping: 0.244500 ms MarkObjects: 1.865900 ms  DeleteObjects: 0.054000 ms)
+
+Disable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.043100 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3241.
+Total: 2.992400 ms (FindLiveObjects: 0.272900 ms CreateObjectMapping: 0.158400 ms MarkObjects: 2.399700 ms  DeleteObjects: 0.157400 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.913400 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3241.
+Total: 2.783600 ms (FindLiveObjects: 0.673300 ms CreateObjectMapping: 0.168400 ms MarkObjects: 1.795000 ms  DeleteObjects: 0.142800 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.693200 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3241.
+Total: 2.596500 ms (FindLiveObjects: 0.358000 ms CreateObjectMapping: 0.206200 ms MarkObjects: 1.943800 ms  DeleteObjects: 0.085300 ms)
+

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9868cdca2905f487c93499f6aba1a26b
+timeCreated: 1482731824
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FuturaExtended
+  fontNames:
+  - FuturaExtended
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
